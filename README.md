@@ -16,3 +16,9 @@ https://developers.google.com/datastudio/connector/pscc-requirements
 🚸 Also not all dimensions & metrics have been set up to be fetched by the connector from Facebook ads. If you want to have a "richer" GDS report, you can use the following links and adjust the JavaScript code accordingly:
 https://developers.facebook.com/docs/marketing-api/insights/parameters/v12.0
 https://developers.google.com/datastudio/connector/calculated-fields
+
+<img src="https://github.com/dpan331/Facebook-Ads---Google-DataStudio-connector/blob/main/img/dataSourceConnector.jpg" height="500" width="600">
+
+<img src="https://github.com/dpan331/Facebook-Ads---Google-DataStudio-connector/blob/main/img/dataSourceConnector_config.jpg" height="500" width="600">
+
+<img src="https://github.com/dpan331/Facebook-Ads---Google-DataStudio-connector/blob/main/img/dataSourceConnector_explorer.jpg" height="500" width="600">
