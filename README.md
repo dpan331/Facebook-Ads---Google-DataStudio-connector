@@ -21,4 +21,4 @@ https://developers.google.com/datastudio/connector/calculated-fields
 
 <img src="https://github.com/dpan331/Facebook-Ads---Google-DataStudio-connector/blob/main/img/dataSourceConnector_config.jpg" height="400" width="600">
 
-<img src="https://github.com/dpan331/Facebook-Ads---Google-DataStudio-connector/blob/main/img/dataSourceConnector_explorer.jpg" height="500" width="1200">
+<img src="https://github.com/dpan331/Facebook-Ads---Google-DataStudio-connector/blob/main/img/dataSourceConnector_explorer.jpg" height="300" width="1200">
