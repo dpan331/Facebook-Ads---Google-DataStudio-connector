@@ -17,8 +17,8 @@ https://developers.google.com/datastudio/connector/pscc-requirements
 https://developers.facebook.com/docs/marketing-api/insights/parameters/v12.0
 https://developers.google.com/datastudio/connector/calculated-fields
 
-<img src="https://github.com/dpan331/Facebook-Ads---Google-DataStudio-connector/blob/main/img/dataSourceConnector.jpg" height="500" width="600">
+<img src="https://github.com/dpan331/Facebook-Ads---Google-DataStudio-connector/blob/main/img/dataSourceConnector.jpg" height="400" width="600">
 
-<img src="https://github.com/dpan331/Facebook-Ads---Google-DataStudio-connector/blob/main/img/dataSourceConnector_config.jpg" height="500" width="600">
+<img src="https://github.com/dpan331/Facebook-Ads---Google-DataStudio-connector/blob/main/img/dataSourceConnector_config.jpg" height="400" width="600">
 
-<img src="https://github.com/dpan331/Facebook-Ads---Google-DataStudio-connector/blob/main/img/dataSourceConnector_explorer.jpg" height="500" width="600">
+<img src="https://github.com/dpan331/Facebook-Ads---Google-DataStudio-connector/blob/main/img/dataSourceConnector_explorer.jpg" height="500" width="1200">
