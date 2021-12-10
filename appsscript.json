@@ -1,0 +1,12 @@
+{
+  "dataStudio": {
+    "name": "Facebook Ads GDS connector by DP",
+    "logoUrl": "https://cdn.iconscout.com/icon/free/png-256/cube-193-449984.png",
+    "company": "DP",
+    "companyUrl": "https://github.com/dpan331",
+    "addonUrl": "https://github.com/dpan331/Facebook-Ads---Google-DataStudio-connector",
+    "supportUrl": "https://github.com/dpan331/Facebook-Ads---Google-DataStudio-connector",
+    "description": "Connect GDS to FB Ads",
+    "sources": ["Graph API"]
+  }
+}
