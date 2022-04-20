@@ -223,7 +223,7 @@ function runReport(startDate, endDate, accountId, accessToken, requestedFieldIds
   //console.log(JSON.stringify(fbFields));
   //Logger.log(JSON.stringify(fbFields));
   
-  var requestEndpoint = "https://graph.facebook.com/v11.0/act_" + accountId + "/insights/?"
+  var requestEndpoint = "https://graph.facebook.com/v12.0/act_" + accountId + "/insights/?"
   
   var timeRange = "{'since':'" + startDate + "', 'until':'" + endDate + "'}";
 
